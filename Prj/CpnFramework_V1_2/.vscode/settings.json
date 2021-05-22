@@ -1,0 +1,15 @@
+{
+    "files.associations": {
+        "cpnsch.h": "c",
+        "rtesynsigs.h": "c",
+        "rtesyn.h": "c",
+        "oopc.h": "c",
+        "triggerservice.h": "c",
+        "cpn1.h": "c",
+        "rtesigs.h": "c",
+        "standtype.h": "c",
+        "rteasynsigs.h": "c",
+        "rtecpnschsigs.h": "c",
+        "abisigs.h": "c"
+    }
+}
