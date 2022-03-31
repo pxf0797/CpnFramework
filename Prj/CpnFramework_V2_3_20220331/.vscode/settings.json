@@ -1,0 +1,26 @@
+{
+    "files.associations": {
+        "cpnsch.h": "c",
+        "rtesynsigs.h": "c",
+        "rtesyn.h": "c",
+        "oopc.h": "c",
+        "triggerservice.h": "c",
+        "cpn1.h": "c",
+        "rtesigs.h": "c",
+        "standtype.h": "c",
+        "rteasynsigs.h": "c",
+        "rtecpnschsigs.h": "c",
+        "abisigs.h": "c",
+        "funclib.h": "c",
+        "cpntaskstrategycfg.h": "c",
+        "cpnschsigs.h": "c",
+        "rte.h": "c",
+        "rtesigsconfiglist.h": "c",
+        "cpndatamanadatasetcfg.h": "c",
+        "cpndatamanacfg.h": "c",
+        "cpndatamanasigs.h": "c",
+        "cpndatamana.h": "c",
+        "cpnerrcfg.h": "c",
+        "limits": "c"
+    }
+}
